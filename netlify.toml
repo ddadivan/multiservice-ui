@@ -1,4 +1,0 @@
-# A basic redirects rule
- [[redirects]]
-   from = "src/*"
-   to = "src/index.html"
